@@ -9,7 +9,7 @@
   "author": "julioc98",
   "license": "ISC",
   "dependencies": {
-    "aws-sdk": "^2.463.0",
+    "aws-sdk": "^2.814.0",
     "dynamoose": "^1.7.3",
     "uuid": "^3.3.2"
   }
